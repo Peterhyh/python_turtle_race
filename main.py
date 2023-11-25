@@ -7,6 +7,7 @@ screen.setup(width=500, height=400)
 color_arr = ["red", "blue", "green", "purple", "black", "pink"]
 
 y_coord = -70
+is_on = False
 
 for color_index in range(0, 6):
     racer = Turtle(shape="turtle")
