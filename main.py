@@ -4,7 +4,7 @@ from turtle import Turtle, Screen
 screen = Screen()
 screen.setup(width=500, height=400)
 
-color_arr = ["red", "blue", "green", "purple", "black", "pink"]
+color_arr = ["red", "blue", "green", "purple", "black", "orange"]
 
 y_coord = -70
 is_on = False
